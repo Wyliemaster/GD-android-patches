@@ -1,0 +1,34 @@
+{
+    "icon_hack": {
+        "offset": "0x21F341",
+        "patch": "0xE0"
+    },
+    "icon_hack_colour": {
+        "offset": "0x21E4BC",
+        "patch": "0xFF"
+    },
+    "songid_bypass": {
+        "offset": "0x322EBE",
+        "patch": "0x0C"
+    },
+    "demon_anticheat": {
+        "offset": "0x29EC5A",
+        "patch": "0x0A"
+    },
+    "rated_small_anticheat": {
+        "offset": "0x2153CE",
+        "patch": "0x0B"
+    },
+    "part1_custom_obj_bypass": {
+        "offset": "0x27F9A4",
+        "patch": "0xFF"
+    },
+    "part2_custom_obj_bypass": {
+        "offset": "0x27FA96",
+        "patch": "0xFF"
+    },
+    "part3_custom_obj_bypass": {
+        "offset": "0x27FAFE",
+        "patch": "0xFF"
+    }
+}
