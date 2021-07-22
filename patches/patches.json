@@ -30,5 +30,9 @@
     "part3_custom_obj_bypass": {
         "offset": "0x27FAFE",
         "patch": "0xFF"
+    },
+    "spinny_bug": {
+        "offset": "0x233E86",
+        "patch": "0x00 0xBF 0x00 0xBF"
     }
 }
